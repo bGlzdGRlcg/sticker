@@ -1,9 +1,10 @@
 {
   "packs": [
     "sora.json",
-    "Hazuki.json",
+    "hazuki.json",
     "Albireo.json",
-    "toya.json"
+    "toya.json",
+    "shinnku.json"
   ],
   "homeserver_url": "https://galgame.dev"
 }
