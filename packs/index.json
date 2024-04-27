@@ -10,7 +10,8 @@
     "Nako.json",
     "ren.json",
     "noir.json",
-    "neri.json"
+    "neri.json",
+    "ndk.json"
   ],
   "homeserver_url": "https://galgame.dev"
 }
