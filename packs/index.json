@@ -1,7 +1,9 @@
 {
   "packs": [
     "Albireo.json",
-    "sora.json"
+    "sora.json",
+    "hazuki.json",
+    "Hazuki.json"
   ],
   "homeserver_url": "https://galgame.dev"
 }
