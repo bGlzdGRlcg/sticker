@@ -8,7 +8,8 @@
     "Shiki.json",
     "Sena.json",
     "Nako.json",
-    "ren.json"
+    "ren.json",
+    "noir.json"
   ],
   "homeserver_url": "https://galgame.dev"
 }
