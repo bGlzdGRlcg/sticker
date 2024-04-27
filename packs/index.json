@@ -1,0 +1,7 @@
+{
+  "packs": [
+    "Albireo.json",
+    "sora.json"
+  ],
+  "homeserver_url": "https://galgame.dev"
+}
