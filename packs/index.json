@@ -1,7 +1,6 @@
 {
   "packs": [
     "sora.json",
-    "hazuki.json",
     "Hazuki.json",
     "Albireo.json",
     "toya.json"
