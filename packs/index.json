@@ -14,7 +14,8 @@
     "ndk.json",
     "Nanoka.json",
     "lai.json",
-    "hit.json"
+    "hit.json",
+    "anz.json"
   ],
   "homeserver_url": "https://galgame.dev"
 }
