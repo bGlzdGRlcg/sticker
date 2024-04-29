@@ -18,7 +18,8 @@
     "anz.json",
     "anr.json",
     "ai.json",
-    "Mashiro.json"
+    "Mashiro.json",
+    "Sumi.json"
   ],
   "homeserver_url": "https://galgame.dev"
 }
